@@ -1,5 +1,6 @@
 #EXTINF:-1 tvg-logo="http://www.sunnewslive.in/logo_sunnews_live.png" ,Sun news
-https://yuppcatchup.akamaized.net/preview/sunnews/1800.m3u8
+stream=http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_News/Sun_News_800.m3u8
+cat=Entertainment
 #EXTINF:-1 tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png" ,News18 Tamilnadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" ,Thanthi

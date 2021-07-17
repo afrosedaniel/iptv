@@ -1,14 +1,22 @@
-#EXTINF:1 tvg-logo="http://www.sunnewslive.in/logo_sunnews_live.png" ,Sun news
-https://www.youtube.com/watch?v=xnk9g38W_5w
-#EXTINF:1 tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png" ,News18 Tamilnadu
+#EXTINF:-1 tvg-logo="http://www.sunnewslive.in/logo_sunnews_live.png" ,Sun news
+https://yuppcatchup.akamaized.net/preview/sunnews/1800.m3u8
+#https://catchup.yuppcdn.net/amazonv2/20/preview/sunnews/master/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png" ,News18 Tamilnadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_3_av-p.m3u8
-#EXTINF:1 tvg-logo="https://www.sathiyam.tv/wp-content/uploads/2018/10/sathiyam-logo-272.jpg" ,Sathiyam Tv
+#EXTINF:-1 tvg-logo="https://www.sathiyam.tv/wp-content/uploads/2018/10/sathiyam-logo-272.jpg" ,Sathiyam Tv
 https://www.youtube.com/878281ee-f6d7-42c4-837e-e10ff49df806
-#EXTINF:1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" ,Thanthi
+#EXTINF:-1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" ,Thanthi
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:1 tvg-logo="https://d2qyv7dcc6f6qm.cloudfront.net/wp-content/uploads/2017/11/10102215/ns7-1.png" ,News 7
+#EXTINF:-1 tvg-logo="https://d2qyv7dcc6f6qm.cloudfront.net/wp-content/uploads/2017/11/10102215/ns7-1.png" ,News 7
 https://www.youtube.com/watch?v=TMfu5l9ey_Y
-#EXTINF:1 tvg-logo="https://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp" ,Puthiya Thalaimurai
+#EXTINF:-1 tvg-logo="https://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp" ,Puthiya Thalaimurai
 https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live3/chunks.m3u8
-#EXTINF:1 tvg-logo="http://www.blessingtv.tv/images/all_images/14579702231.png" ,Blessing tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/300px-Sun_TV_logo.svg.png" group-title="INDIA", SUN TV
+http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
+#http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/49Logo.jpg" group-title="INDIA", Sun Life
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunlife/master/master.m3u8
+#https://load.airtel.tv/sunlife/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#https://yuppcatchup.akamaized.net/preview/sunlife/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.blessingtv.tv/images/all_images/14579702231.png" ,Blessing tv
 http://199.168.96.106:1935/blessingtv-tamillive/smil:MobilStream.smil/playlist.m3u8

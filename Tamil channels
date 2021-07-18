@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-logo="http://www.sunnewslive.in/logo_sunnews_live.png" ,Sun news
-stream=http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_News/Sun_News_800.m3u8
-cat=Entertainment
 #EXTINF:-1 tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png" ,News18 Tamilnadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" ,Thanthi
@@ -22,3 +19,6 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 http://199.168.96.106:1935/blessingtv-tamillive/smil:MobilStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sathiyam.tv/wp-content/uploads/2018/10/sathiyam-logo-272.jpg" ,Sathiyam Tv
 https://www.youtube.com/878281ee-f6d7-42c4-837e-e10ff49df806
+#EXTINF:-1 tvg-logo="http://www.sunnewslive.in/logo_sunnews_live.png" ,Sun news
+stream=http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_News/Sun_News_800.m3u8
+cat=Entertainment 

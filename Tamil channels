@@ -16,6 +16,8 @@ http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/sunlife/master/master.m3u8
 #https://load.airtel.tv/sunlife/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #https://yuppcatchup.akamaized.net/preview/sunlife/master.m3u8
+#EXTINF:-1 tvg-logo="https://kalaignartv.co.in/logo.jpg" group-title="INDIA", Kalaingar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.blessingtv.tv/images/all_images/14579702231.png" ,Blessing tv
 http://199.168.96.106:1935/blessingtv-tamillive/smil:MobilStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sathiyam.tv/wp-content/uploads/2018/10/sathiyam-logo-272.jpg" ,Sathiyam Tv

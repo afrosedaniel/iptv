@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png" ,News18 Tamilnadu
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_3_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.sunnewslive.in/logo_sunnews_live.png" ,Sun news
+https://suntvlive.s.llnwi.net/SunNews/SunNews.isml/SunNews-audio_1=64000-video=1499968.m3u8?p=51&se=1626622157&e=1626650957&h=b6e7f61f5411b8b2493982248e01ce92
 #EXTINF:-1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" ,Thanthi
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://d2qyv7dcc6f6qm.cloudfront.net/wp-content/uploads/2017/11/10102215/ns7-1.png" ,News 7
@@ -19,5 +21,4 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 http://199.168.96.106:1935/blessingtv-tamillive/smil:MobilStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sathiyam.tv/wp-content/uploads/2018/10/sathiyam-logo-272.jpg" ,Sathiyam Tv
 https://www.youtube.com/878281ee-f6d7-42c4-837e-e10ff49df806
-#EXTINF:-1 tvg-logo="http://www.sunnewslive.in/logo_sunnews_live.png" ,Sun news
-https://suntvlive.s.llnwi.net/SunNews/SunNews.isml/SunNews-audio_1=64000-video=1499968.m3u8?p=51&se=1626622157&e=1626650957&h=b6e7f61f5411b8b2493982248e01ce92
+

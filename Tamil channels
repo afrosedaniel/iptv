@@ -2,9 +2,6 @@
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" ,Thanthi
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://d2qyv7dcc6f6qm.cloudfront.net/wp-content/uploads/2017/11/10102215/ns7-1.png" ,News 7
-http://d2voe16cs5psaw.cloudfront.net/news7new/smil:news7new.smil/playlist.m3u8
-https://yupptvmslweb.akamaized.net/hls/live/2008775/news7/news7/news7_600/chunklist.m3u8?hdntl=exp=1626790885~acl=!*/2008775/news7/*!/payload/yuppTVCom_5_-1_8e0042510fba432a_IN_49.205.79.78/*~data=hdntl~hmac=d641526e0bdaa9c0f02408f1da3d9381322d54319fcf70a79b43a05b9e5ac7e6
 #EXTINF:-1 tvg-logo="https://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp" ,Puthiya Thalaimurai
 https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.sathiyam.tv/wp-content/uploads/2018/10/sathiyam-logo-272.jpg" ,Sathiyam Tv
@@ -22,3 +19,5 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 http://199.168.96.106:1935/blessingtv-tamillive/smil:MobilStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sunnewslive.in/logo_sunnews_live.png" ,Sun news
 https://suntvlive.s.llnwi.net/SunNews/SunNews.isml/SunNews-audio_1=64000-video=1499968.m3u8
+#EXTINF:-1 tvg-logo="https://d2qyv7dcc6f6qm.cloudfront.net/wp-content/uploads/2017/11/10102215/ns7-1.png" ,News 7
+https://yupptvmslweb.akamaized.net/hls/live/2008775/news7/news7/news7_600/chunklist.m3u8?hdntl=exp=1626790885~acl=!*/2008775/news7/*!/payload/yuppTVCom_5_-1_8e0042510fba432a_IN_49.205.79.78/*~data=hdntl~hmac=d641526e0bdaa9c0f02408f1da3d9381322d54319fcf70a79b43a05b9e5ac7e6
